@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://https://derslik-takip.streamlit.app//$1"
+    }
+  ]
+}
