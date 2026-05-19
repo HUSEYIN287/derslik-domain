@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://https://derslik-takip.streamlit.app//$1"
+      "destination": "https://derslik-takip.streamlit.app//$1"
     }
   ]
 }
